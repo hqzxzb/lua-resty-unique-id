@@ -35,7 +35,7 @@ local id = unique_id.id();
 
 ---
 
-**Windows (Windows 7)**
+**Windows**
 
 **200000** requests and **500** concurrent
 
@@ -43,7 +43,7 @@ local id = unique_id.id();
 
 ---
 
-**Linux (Redhat 6.7)**
+**Linux**
 
 **200000** requests and **500** concurrent
 
